@@ -1,8 +1,8 @@
 //
 //  GameModel.swift
-//  TestGame
+//  GameWynd
 //
-//  Created by RANA  on 20/10/24.
+//  Created by RANA  on 23/10/24.
 //
 
 import Foundation
